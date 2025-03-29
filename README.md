@@ -2,7 +2,6 @@
 
 A lightweight Python GUI app to help students manage their exam study plan. Built with `tkinter`, this app allows you to view daily study tasks, mark them as complete, and track your progress easily.
 
-![screenshot](https://via.placeholder.com/700x400?text=Screenshot+Coming+Soon)
 
 ---
 
