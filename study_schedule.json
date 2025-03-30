@@ -3,104 +3,200 @@
     "date": "2025-03-30",
     "hours": 10,
     "tasks": [
-      {"description": "4h COMP 310 (intro notes + concepts)", "done": false},
-      {"description": "3h COMP 360 (definitions, problems)", "done": false},
-      {"description": "2h COMP 330 (logic/grammar)", "done": false},
-      {"description": "1h COMP 302 (skim topics)", "done": false}
+      {
+        "description": "4h COMP 310 (intro notes + concepts)",
+        "done": false
+      },
+      {
+        "description": "3h COMP 360 (definitions, problems)",
+        "done": false
+      },
+      {
+        "description": "2h COMP 330 (logic/grammar)",
+        "done": false
+      },
+      {
+        "description": "1h COMP 302 (skim topics)",
+        "done": false
+      }
     ]
   },
   {
     "date": "2025-03-31",
     "hours": 10,
     "tasks": [
-      {"description": "4h COMP 360 (problem solving)", "done": false},
-      {"description": "3h COMP 310 (OS concepts)", "done": false},
-      {"description": "2h COMP 302 (functional programming)", "done": false},
-      {"description": "1h Review Quiz / Flashcards", "done": false}
+      {
+        "description": "4h COMP 360 (problem solving)",
+        "done": false
+      },
+      {
+        "description": "3h COMP 310 (OS concepts)",
+        "done": false
+      },
+      {
+        "description": "2h COMP 302 (functional programming)",
+        "done": false
+      },
+      {
+        "description": "1h Review Quiz / Flashcards",
+        "done": false
+      }
     ]
   },
   {
     "date": "2025-04-01",
     "hours": 4,
     "tasks": [
-      {"description": "2h COMP 310 (past quiz + scheduling)", "done": false},
-      {"description": "2h COMP 330", "done": false}
+      {
+        "description": "2h COMP 310 (past quiz + scheduling)",
+        "done": false
+      },
+      {
+        "description": "2h COMP 330",
+        "done": false
+      }
     ]
   },
   {
     "date": "2025-04-02",
     "hours": 4,
     "tasks": [
-      {"description": "2h COMP 360", "done": false},
-      {"description": "2h COMP 302", "done": false}
+      {
+        "description": "2h COMP 360",
+        "done": false
+      },
+      {
+        "description": "2h COMP 302",
+        "done": false
+      }
     ]
   },
   {
     "date": "2025-04-03",
     "hours": 4,
     "tasks": [
-      {"description": "2h COMP 310", "done": false},
-      {"description": "2h COMP 360", "done": false}
+      {
+        "description": "2h COMP 310",
+        "done": false
+      },
+      {
+        "description": "2h COMP 360",
+        "done": false
+      }
     ]
   },
   {
     "date": "2025-04-04",
     "hours": 4,
     "tasks": [
-      {"description": "2h COMP 330 (mock Qs)", "done": false},
-      {"description": "2h COMP 310", "done": false}
+      {
+        "description": "2h COMP 330 (mock Qs)",
+        "done": false
+      },
+      {
+        "description": "2h COMP 310",
+        "done": false
+      }
     ]
   },
   {
     "date": "2025-04-05",
     "hours": 4,
     "tasks": [
-      {"description": "2h COMP 302 (language paradigms)", "done": false},
-      {"description": "2h COMP 360", "done": false}
+      {
+        "description": "2h COMP 302 (language paradigms)",
+        "done": false
+      },
+      {
+        "description": "2h COMP 360",
+        "done": false
+      }
     ]
   },
   {
     "date": "2025-04-06",
     "hours": 12,
     "tasks": [
-      {"description": "5h COMP 360 (recursion, greedy/dp)", "done": false},
-      {"description": "3h COMP 310 (memory mgmt)", "done": false},
-      {"description": "3h COMP 330 (automata)", "done": false},
-      {"description": "1h Light review", "done": false}
+      {
+        "description": "5h COMP 360 (recursion, greedy/dp)",
+        "done": false
+      },
+      {
+        "description": "3h COMP 310 (memory mgmt)",
+        "done": false
+      },
+      {
+        "description": "3h COMP 330 (automata)",
+        "done": false
+      },
+      {
+        "description": "1h Light review",
+        "done": false
+      }
     ]
   },
   {
     "date": "2025-04-07",
     "hours": 12,
     "tasks": [
-      {"description": "4h COMP 330 (review + mock)", "done": false},
-      {"description": "4h COMP 310 (exam Qs)", "done": false},
-      {"description": "3h COMP 302 (coding)", "done": false},
-      {"description": "1h Mental break", "done": false}
+      {
+        "description": "4h COMP 330 (review + mock)",
+        "done": false
+      },
+      {
+        "description": "4h COMP 310 (exam Qs)",
+        "done": false
+      },
+      {
+        "description": "3h COMP 302 (coding)",
+        "done": false
+      },
+      {
+        "description": "1h Mental break",
+        "done": false
+      }
     ]
   },
   {
     "date": "2025-04-08",
     "hours": 4,
     "tasks": [
-      {"description": "2h COMP 310", "done": false},
-      {"description": "2h COMP 330 (final push)", "done": false}
+      {
+        "description": "2h COMP 310",
+        "done": false
+      },
+      {
+        "description": "2h COMP 330 (final push)",
+        "done": false
+      }
     ]
   },
   {
     "date": "2025-04-09",
     "hours": 4,
     "tasks": [
-      {"description": "2h COMP 330 (practice)", "done": false},
-      {"description": "2h COMP 360", "done": false}
+      {
+        "description": "2h COMP 330 (practice)",
+        "done": false
+      },
+      {
+        "description": "2h COMP 360",
+        "done": false
+      }
     ]
   },
   {
     "date": "2025-04-10",
     "hours": 4,
     "tasks": [
-      {"description": "2h COMP 330 (mock Qs)", "done": false},
-      {"description": "2h COMP 310", "done": false}
+      {
+        "description": "2h COMP 330 (mock Qs)",
+        "done": false
+      },
+      {
+        "description": "2h COMP 310",
+        "done": false
+      }
     ]
   }
 ]
